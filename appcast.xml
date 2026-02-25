@@ -5,5 +5,16 @@
         <link>https://raw.githubusercontent.com/Lichers0/stt-tool-releases/main/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
+            <item>
+        <title>Version 1.3.1</title>
+        <sparkle:version>1.3.1</sparkle:version>
+        <pubDate>Wed, 25 Feb 2026 06:04:40 +0000</pubDate>
+        <enclosure
+            url="https://github.com/Lichers0/stt-tool-releases/releases/download/v1.3.1/STTTool.zip"
+            sparkle:edSignature=NtjlnsmMU41jMcn/ctza72clx/StryNneqIRy0qedFN4XAWz9PX4ZgBwI9cWlvpIO9vbWnel5h4YNG8R1BFODw== length=2738765
+            type="application/octet-stream"
+            sparkle:version="1.3.1"
+        />
+    </item>
     </channel>
 </rss>
