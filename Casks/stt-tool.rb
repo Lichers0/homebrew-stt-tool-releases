@@ -1,8 +1,8 @@
 cask "stt-tool" do
-  version "1.3.1"
-  sha256 "e39921690e6e5a4b37fe8e35717f3bae91207a6a3a84f49983459cbefa12ed9e"
+  version "1.3.2"
+  sha256 "4876d7580552a01293e7749acbbfdd915df7ee99c0b9a033e6ff7a2d170c5a27"
 
-  url "https://github.com/Lichers0/stt-tool-releases/releases/download/v1.3.1/STTTool.zip"
+  url "https://github.com/Lichers0/stt-tool-releases/releases/download/v1.3.2/STTTool.zip"
   name "STT Tool"
   desc "Speech-to-text tool with global hotkey"
   homepage "https://github.com/Lichers0/stt-tool-releases"
