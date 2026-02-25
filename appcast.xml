@@ -16,5 +16,16 @@
             sparkle:version="1.3.1"
         />
     </item>
+            <item>
+        <title>Version 1.3.1</title>
+        <sparkle:version>1.3.1</sparkle:version>
+        <pubDate>Wed, 25 Feb 2026 06:29:56 +0000</pubDate>
+        <enclosure
+            url="https://github.com/Lichers0/stt-tool-releases/releases/download/v1.3.1/STTTool.zip"
+            sparkle:edSignature=9tt7UFGjAZ8TAhwGXr6fimiu5BFIfTrOrGMp4SReWc18bzhT65YfBHz7pXTzMNf6GCQ7s3wVPshrsgWWo3u2CQ== length=2738765
+            type="application/octet-stream"
+            sparkle:version="1.3.1"
+        />
+    </item>
     </channel>
 </rss>
