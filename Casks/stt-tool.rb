@@ -1,6 +1,6 @@
 cask "stt-tool" do
   version "1.3.1"
-  sha256 "89e32bf03bf57ae88fca49ad9440c55d94d7f5e0804454a029e0e96b2a937c30"
+  sha256 "e39921690e6e5a4b37fe8e35717f3bae91207a6a3a84f49983459cbefa12ed9e"
 
   url "https://github.com/Lichers0/stt-tool-releases/releases/download/v1.3.1/STTTool.zip"
   name "STT Tool"
