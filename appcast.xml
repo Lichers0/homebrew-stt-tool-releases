@@ -51,5 +51,17 @@
             sparkle:version="1.5.0"
         />
     </item>
+            <item>
+        <title>Version 1.5.1</title>
+        <sparkle:version>1.5.1</sparkle:version>
+        <pubDate>Sat, 28 Feb 2026 15:37:57 +0000</pubDate>
+        <description><![CDATA[<ul><li>Fix Sparkle update check not visible in menu bar app</li><li>Enable automatic update checks on launch</li><li>Show app version in popover</li></ul>]]></description>
+        <enclosure
+            url="https://github.com/Lichers0/stt-tool-releases/releases/download/v1.5.1/STTTool.zip"
+            sparkle:edSignature=OLX+MM/7Rwo0nD4Iy1f5YnZQx1yeHd4SdgJSeBnCNKJVMbEPeJlLHuJMfEkLsmQnnt2s1uIQNkGIwbhNyogjBA== length=2762885
+            type="application/octet-stream"
+            sparkle:version="1.5.1"
+        />
+    </item>
     </channel>
 </rss>
