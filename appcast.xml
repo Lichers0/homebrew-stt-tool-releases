@@ -63,5 +63,17 @@
             sparkle:version="1.5.1"
         />
     </item>
+            <item>
+        <title>Version 1.5.2</title>
+        <sparkle:version>1.5.2</sparkle:version>
+        <pubDate>Sun, 01 Mar 2026 13:58:55 +0000</pubDate>
+        <description><![CDATA[<ul><li>Fix overlay window not expanding on Cmd+V paste</li><li>Fix overlay window position drift on reopen after large text</li><li>Fix resize lag when new words appear in overlay</li><li>Fix lowercase toggle not applied on final text insertion</li><li>Allow space append on empty overlay</li></ul>]]></description>
+        <enclosure
+            url="https://github.com/Lichers0/homebrew-stt-tool-releases/releases/download/v1.5.2/STTTool.zip"
+            sparkle:edSignature=i6Wq2pZ+WmWle5C1IB3xHbl+i8NeEPaK20iGtRod2AOhYpHRKCLJYe8bWoTF1tkBDO6GzkbX8biWbeX/5WQUDQ== length=2763132
+            type="application/octet-stream"
+            sparkle:version="1.5.2"
+        />
+    </item>
     </channel>
 </rss>
