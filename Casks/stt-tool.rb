@@ -1,8 +1,8 @@
 cask "stt-tool" do
-  version "1.5.1"
-  sha256 "708859455a511828b6cbc48ea8d3042ca68e41e343c1bbf8a31209894c396a33"
+  version "1.5.2"
+  sha256 "cc4263f1228db8ed21184c52dac6d9ea6cc1492c740bc71ea0ebf6e50e5f2f51"
 
-  url "https://github.com/Lichers0/homebrew-stt-tool-releases/releases/download/v#{version}/STTTool.zip"
+  url "https://github.com/Lichers0/homebrew-stt-tool-releases/releases/download/v1.5.2/STTTool.zip"
   name "STT Tool"
   desc "Speech-to-text tool with global hotkey"
   homepage "https://github.com/Lichers0/homebrew-stt-tool-releases"
