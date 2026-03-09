@@ -75,5 +75,17 @@
             sparkle:version="1.5.2"
         />
     </item>
+            <item>
+        <title>Version 1.5.3</title>
+        <sparkle:version>1.5.3</sparkle:version>
+        <pubDate>Mon, 09 Mar 2026 12:50:48 +0000</pubDate>
+        <description><![CDATA[<ul><li>Fix non-default microphone not capturing audio (device switching broken)</li><li>Fix cascading recovery cycles when starting with non-default device</li><li>Add ObjC exception safety for audio tap installation</li><li>Add device disconnect recovery with debounce and retry limit</li><li>Fix Permissions window hidden behind Accessibility dialog</li></ul>]]></description>
+        <enclosure
+            url="https://github.com/Lichers0/homebrew-stt-tool-releases/releases/download/v1.5.3/STTTool.zip"
+            sparkle:edSignature=FJ/f5+VAHkwwpio3tTzf55dloobvOX8XcFYEOxOUQIO5izN6i321ap6pTWf2w02Bpey+2Osu7tG1NAOQKbGOAQ== length=4472550
+            type="application/octet-stream"
+            sparkle:version="1.5.3"
+        />
+    </item>
     </channel>
 </rss>
